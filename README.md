@@ -41,6 +41,13 @@ python evaluate.py
 ## Citation
 If you use this code or ideas from the paper for your research, please cite our paper:
 ```
+@InProceedings{Jiang_2024_ECCV,
+    author    = {Jiang, Hai and Luo, Ao and Liu, Xiaohong and Han, Songchen and Liu, Shuaicheng},
+    title     = {LightenDiffusion: Unsupervised Low-Light Image Enhancement with Latent-Retinex Diffusion Models},
+    booktitle = {European Conference on Computer Vision},
+    year      = {2024},
+    pages     = {}
+}
 ```
 
 ## Acknowledgement
