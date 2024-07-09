@@ -5,7 +5,7 @@
 <h4 align="center">4.Shanghai Jiaotong University, 5.Megvii Technology</center></center>
 
 ## Pipeline
-![](./Figures/Pipeline.jpg)
+![](./Figures/pipeline.jpg)
 
 ## Dependencies
 ```
