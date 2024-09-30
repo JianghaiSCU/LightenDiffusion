@@ -22,7 +22,9 @@ LSRW dataset: Jiang Hai, Zhu Xuan, Ren Yang, Yutong Hao, Fengzhu Zou, Fang Lin, 
 Please refer to [[Project Page of RetinexNet]](https://daooshee.github.io/BMVC2018website/).
 
 ## Pre-trained Models 
-You can download our pre-trained model from [[Google Drive]](https://drive.google.com/drive/folders/1m3t15rWw76IDDWJ0exLOe5P0uEnjk3zl?usp=drive_link) and [[Baidu Yun (extracted code:cjzk)]](https://pan.baidu.com/s/1fPLVgnZbdY1n75Flq54bMQ)
+You can download our pre-trained model from [Hugging Face](...).
+
+Alternatively, the model is also available on [[Google Drive]](https://drive.google.com/drive/folders/1m3t15rWw76IDDWJ0exLOe5P0uEnjk3zl?usp=drive_link) and [[Baidu Yun (extracted code:cjzk)]](https://pan.baidu.com/s/1fPLVgnZbdY1n75Flq54bMQ)
 
 ## How to train?
 You need to modify ```datasets/dataset.py``` slightly for your environment, and then
